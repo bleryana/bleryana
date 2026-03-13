@@ -1,16 +1,54 @@
-## Hi there 👋
+# David Sama
 
-<!--
-**bleryana/bleryana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Professional | Security+ | CySA+
 
-Here are some ideas to get you started:
+I currently work with American Cyber Squad, focusing on cybersecurity operations, vulnerability management, digital forensics, and network security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Vulnerability Assessment
+* Network Reconnaissance
+* Security Analysis
+* Digital Forensics
+* Incident Investigation
+* Linux Security Tools
+
+## Tools
+
+* Kali Linux
+* Nmap
+* Nikto
+* Searchsploit
+* Wireshark
+* Autopsy
+* FTK Imager
+* Splunk
+
+## Featured Project
+
+### Vulnerability Management Lab
+
+This project demonstrates a vulnerability assessment performed in a controlled lab environment using Kali Linux and Metasploitable 2.
+
+Activities performed include:
+
+* Host discovery
+* Port scanning
+* Service enumeration
+* Vulnerability identification
+* Exploit research
+
+Project repository:
+https://github.com/bleryana/vulnerability-management-project
+
+## Certifications
+
+* CompTIA Security+
+* CompTIA CySA+
+
+## Current Focus
+
+* Vulnerability Management
+  
+* Network Traffic Analysis
+* Security Monitoring
