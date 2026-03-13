@@ -9,7 +9,6 @@ I currently work with American Cyber Squad, focusing on cybersecurity operations
 * Vulnerability Assessment
 * Network Reconnaissance
 * Security Analysis
-* Digital Forensics
 * Incident Investigation
 * Linux Security Tools
 
