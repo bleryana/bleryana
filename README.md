@@ -45,6 +45,9 @@ https://github.com/bleryana/vulnerability-management-project
 * CompTIA Security+
 * CompTIA CySA+
 
+## Education
+. Associateof Applied Science- Cybersecurity Specialty
+
 ## Current Focus
 
 * Vulnerability Management
