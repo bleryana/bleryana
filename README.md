@@ -2,7 +2,7 @@
 
 Cybersecurity Professional | Security+ | CySA+
 
-I currently work with American Cyber Squad, focusing on cybersecurity operations, vulnerability management, digital forensics, and network security.
+I currently work with American Cyber Squad, focusing on cybersecurity operations, vulnerability management, and network security.
 
 ## Skills
 
